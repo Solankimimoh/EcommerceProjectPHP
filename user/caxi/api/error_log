@@ -1,0 +1,13 @@
+[22-Mar-2017 19:10:08 America/New_York] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/dcitsol1/public_html/grocery/user/caxi/api/include/DB_Functions.php on line 34
+[22-Mar-2017 19:10:17 America/New_York] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/dcitsol1/public_html/grocery/user/caxi/api/include/DB_Functions.php on line 34
+[22-Mar-2017 19:10:57 America/New_York] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/dcitsol1/public_html/grocery/user/caxi/api/include/DB_Functions.php on line 34
+[22-Mar-2017 19:11:02 America/New_York] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/dcitsol1/public_html/grocery/user/caxi/api/include/DB_Functions.php on line 34
+[22-Mar-2017 19:11:14 America/New_York] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/dcitsol1/public_html/grocery/user/caxi/api/include/DB_Functions.php on line 34
+[22-Mar-2017 19:12:05 America/New_York] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/dcitsol1/public_html/grocery/user/caxi/api/include/DB_Functions.php on line 34
+[31-Mar-2017 00:05:04 America/New_York] PHP Fatal error:  Call to undefined method DB_Functions::bookRide() in /home/dcitsol1/public_html/grocery/user/caxi/api/bookride.php on line 28
+[31-Mar-2017 00:05:15 America/New_York] PHP Fatal error:  Call to undefined method DB_Functions::bookRide() in /home/dcitsol1/public_html/grocery/user/caxi/api/bookride.php on line 28
+[31-Mar-2017 00:05:43 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/dcitsol1/public_html/grocery/user/caxi/api/booking.php on line 9
+[31-Mar-2017 00:05:43 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/dcitsol1/public_html/grocery/user/caxi/api/booking.php on line 47
+[31-Mar-2017 00:05:43 America/New_York] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/dcitsol1/public_html/grocery/user/caxi/api/booking.php on line 71
+[31-Mar-2017 00:06:36 America/New_York] PHP Fatal error:  Call to undefined method DB_Functions::bookRide() in /home/dcitsol1/public_html/grocery/user/caxi/api/bookride.php on line 28
+[31-Mar-2017 00:09:59 America/New_York] PHP Fatal error:  Call to undefined method DB_Functions::bookRide() in /home/dcitsol1/public_html/grocery/user/caxi/api/bookride.php on line 28
